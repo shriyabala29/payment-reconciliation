@@ -1,0 +1,5 @@
+payment_ref,partner,amount_gbp,status,reason
+TXN003,PartnerB,15750.0,HOLD,Settled 1 day(s) late
+TXN004,PartnerB,4200.0,HOLD,No bank evidence for a payment we disbursed
+TXN005,PartnerC,22100.0,HOLD,"Amount mismatch: sent 22100.00, received 21100.00; Large payment (over GBP 20,000) - recommend second review"
+TXN099,UNKNOWN,3000.0,HOLD,Bank evidence for a payment we never disbursed
